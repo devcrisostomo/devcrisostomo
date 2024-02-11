@@ -1,7 +1,7 @@
 ### Olá! Sou Jandson Crisostomo 🙋🏻‍♂️ seja bem vindo(a) 🤝
 
 <h4>Atualmente trabalho como auxiliar de produção.<h4/>
-<p>Estou estudando FrontEnd por conta própria sem estar em algum curso pago por enquanto.</p>
+<p>Estou estudando FrontEnd / UI Design na Origamid.</p>
 
 [![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)] [![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)] Em estudo.
 
